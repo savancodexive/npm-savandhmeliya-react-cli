@@ -20,7 +20,7 @@
     "homepage": "https://github.com/dhameliyasavan/npm-savandhmeliya-react-cli/blob/main/README.md",
     "scripts": {},
     "keywords": [],
-    "author": "Savan Dhameliya",
+    "author": "savandhameliya",
     "license": "MIT",
     "dependencies": {
         "boxen": "^5.0.1",

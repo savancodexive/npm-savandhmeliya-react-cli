@@ -1,0 +1,24 @@
+{
+    "name": "@savandhmeliya/react-cli",
+    "version": "1.0.0",
+    "description": "A React Cli",
+    "main": "src/index.js",
+    "bin": {
+        "cli-rj": "bin/cli-rj",
+        "cli-rn": "bin/cli-rn"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "scripts": {},
+    "keywords": [],
+    "author": "Savan Dhameliya",
+    "license": "MIT",
+    "dependencies": {
+        "boxen": "^5.0.1",
+        "chalk": "^4.1.1",
+        "esm": "^3.2.25",
+        "lodash": "^4.17.21",
+        "yargs": "^17.0.1"
+    }
+}

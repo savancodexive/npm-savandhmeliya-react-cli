@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+const _ = require('lodash');
+
+require = require('esm')(module /*, options*/);
+require('../src/js-cli').cli(_.slice(process.argv, 2));
